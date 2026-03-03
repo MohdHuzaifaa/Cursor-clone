@@ -46,25 +46,8 @@ No JavaScript. No Bootstrap. No Tailwind.
 
 ---
 
-## 🌐 Deploy on GitHub Pages
-
-You can deploy this project easily using GitHub Pages.
-
-### 🔹 Deploy from Main Branch
-
-1. Go to your repository on GitHub.
-2. Click on **Settings**.
-3. Scroll to **Pages**.
-4. Under **Source**, select:
-   - Branch: `main`
-   - Folder: `/ (root)`
-5. Click **Save**.
-
-After deployment, your website will be available at:
-
-```
+Live Link:
 https://mohdhuzaifaa.github.io/Cursor-clone/
-```
 
 ---
 
